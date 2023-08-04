@@ -1,88 +1,202 @@
 {
-  "posts": [
+  "users": [
     {
-      "albumId": 24,
       "id": 1,
-      "title": "Sample Title 1",
-      "content": "This is the content of Sample Title 1.",
-      "url": "https://via.placeholder.com/600/2a653e?text=1",
-      "thumbnailUrl": "https://via.placeholder.com/150/2a653e?text=1"
+      "username": "john_doe",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "role": "author",
+      "notifications": [1, 2]
     },
     {
-      "albumId": 24,
       "id": 2,
-      "title": "Sample Title 2",
-      "content": "This is the content of Sample Title 2.",
-      "url": "https://via.placeholder.com/600/2a653e?text=2",
-      "thumbnailUrl": "https://via.placeholder.com/150/2a653e?text=2"
+      "username": "jane_smith",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "role": "reader",
+      "notifications": [3]
     },
     {
-      "albumId": 24,
       "id": 3,
-      "title": "Sample Title 3",
-      "content": "This is the content of Sample Title 3.",
-      "url": "https://via.placeholder.com/600/2a653e?text=3",
-      "thumbnailUrl": "https://via.placeholder.com/150/2a653e?text=3"
+      "username": "bob_johnson",
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "role": "reader",
+      "notifications": []
     },
     {
-      "albumId": 24,
       "id": 4,
-      "title": "Sample Title 4",
-      "content": "This is the content of Sample Title 4.",
-      "url": "https://via.placeholder.com/600/2a653e?text=4",
-      "thumbnailUrl": "https://via.placeholder.com/150/2a653e?text=4"
+      "username": "susan_carter",
+      "name": "Susan Carter",
+      "email": "susan.carter@example.com",
+      "role": "author",
+      "notifications": [4]
     },
     {
-      "albumId": 24,
       "id": 5,
-      "title": "Sample Title 5",
-      "content": "This is the content of Sample Title 5.",
-      "url": "https://via.placeholder.com/600/2a653e?text=5",
-      "thumbnailUrl": "https://via.placeholder.com/150/2a653e?text=5"
-    },
-    {
-      "albumId": 24,
-      "id": 6,
-      "title": "Sample Title 6",
-      "content": "This is the content of Sample Title 6.",
-      "url": "https://via.placeholder.com/600/2a653e?text=6",
-      "thumbnailUrl": "https://via.placeholder.com/150/2a653e?text=6"
-    },
-    {
-      "albumId": 24,
-      "id": 7,
-      "title": "Sample Title 7",
-      "content": "This is the content of Sample Title 7.",
-      "url": "https://via.placeholder.com/600/2a653e?text=7",
-      "thumbnailUrl": "https://via.placeholder.com/150/2a653e?text=7"
-    },
-    {
-      "albumId": 24,
-      "id": 8,
-      "title": "Sample Title 8",
-      "content": "This is the content of Sample Title 8.",
-      "url": "https://via.placeholder.com/600/2a653e?text=8",
-      "thumbnailUrl": "https://via.placeholder.com/150/2a653e?text=8"
-    },
-    {
-      "albumId": 24,
-      "id": 9,
-      "title": "Sample Title 9",
-      "content": "This is the content of Sample Title 9.",
-      "url": "https://via.placeholder.com/600/2a653e?text=9",
-      "thumbnailUrl": "https://via.placeholder.com/150/2a653e?text=9"
-    },
-    {
-      "albumId": 24,
-      "id": 10,
-      "title": "Sample Title 10",
-      "content": "This is the content of Sample Title 10.",
-      "url": "https://via.placeholder.com/600/2a653e?text=10",
-      "thumbnailUrl": "https://via.placeholder.com/150/2a653e?text=10"
+      "username": "alex_smith",
+      "name": "Alex Smith",
+      "email": "alex.smith@example.com",
+      "role": "reader",
+      "notifications": [5]
     }
   ],
-  "comments": [],
-  "profile": {
-    "name": "typicode"
-  }
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "content": "Hello, this is my first post!",
+      "comments": [
+        {
+          "id": 1,
+          "userId": 2,
+          "content": "Great post, John!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "content": "I love coding!",
+      "comments": [
+        {
+          "id": 2,
+          "userId": 3,
+          "content": "I agree! Coding is fun!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "userId": 4,
+      "content": "My new travel adventure!",
+      "comments": [
+        {
+          "id": 3,
+          "userId": 2,
+          "content": "Looks amazing, Susan!"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "content": "Delicious recipe: Chocolate cake!",
+      "comments": []
+    },
+    {
+      "id": 5,
+      "userId": 2,
+      "content": "Just finished reading a great book!",
+      "comments": [
+        {
+          "id": 4,
+          "userId": 1,
+          "content": "I also loved that book!"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "userId": 2,
+      "postId": 1,
+      "content": "Great post, John!"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "postId": 2,
+      "content": "I agree! Coding is fun!"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "postId": 3,
+      "content": "Looks amazing, Susan!"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "postId": 5,
+      "content": "I also loved that book!"
+    }
+  ],
+  "followings": [
+    {
+      "userId": 1,
+      "followingIds": [2, 4]
+    },
+    {
+      "userId": 2,
+      "followingIds": [1]
+    },
+    {
+      "userId": 3,
+      "followingIds": [1]
+    },
+    {
+      "userId": 4,
+      "followingIds": [3]
+    },
+    {
+      "userId": 5,
+      "followingIds": [1, 4]
+    }
+  ],
+  "followers": [
+    {
+      "userId": 1,
+      "followerIds": [5]
+    },
+    {
+      "userId": 2,
+      "followerIds": [3, 4]
+    },
+    {
+      "userId": 3,
+      "followerIds": [5]
+    },
+    {
+      "userId": 4,
+      "followerIds": [1, 2]
+    },
+    {
+      "userId": 5,
+      "followerIds": []
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "userId": 1,
+      "message": "You have a new follower",
+      "read": false
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "message": "Your post was liked",
+      "read": true
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "message": "You have a new follower",
+      "read": false
+    },
+    {
+      "id": 4,
+      "userId": 4,
+      "message": "You have a new follower",
+      "read": false
+    },
+    {
+      "id": 5,
+      "userId": 5,
+      "message": "You have a new follower",
+      "read": false
+    }
+  ]
 }
