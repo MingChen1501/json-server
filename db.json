@@ -3,42 +3,52 @@
     {
       "id": 1,
       "username": "john_doe",
-      "name": "John Doe",
-      "email": "john.doe@example.com",
-      "role": "author",
-      "notifications": [1, 2]
+      "password": "password123",
+      "avatar": "https://picsum.photos/200/300",
+      "type": "author",
+      "following": [2],
+      "followers": [2],
+      "posts": [1, 2]
     },
     {
       "id": 2,
       "username": "jane_smith",
-      "name": "Jane Smith",
-      "email": "jane.smith@example.com",
-      "role": "reader",
-      "notifications": [3]
+      "password": "secret456",
+      "avatar": "https://picsum.photos/200/300",
+      "type": "reader",
+      "following": [1],
+      "followers": [1],
+      "posts": []
     },
     {
       "id": 3,
-      "username": "bob_johnson",
-      "name": "Bob Johnson",
-      "email": "bob.johnson@example.com",
-      "role": "reader",
-      "notifications": []
+      "username": "michael",
+      "password": "test123",
+      "avatar": "https://picsum.photos/200/300",
+      "type": "reader",
+      "following": [],
+      "followers": [],
+      "posts": []
     },
     {
       "id": 4,
-      "username": "susan_carter",
-      "name": "Susan Carter",
-      "email": "susan.carter@example.com",
-      "role": "author",
-      "notifications": [4]
+      "username": "emily",
+      "password": "abc123",
+      "avatar": "https://picsum.photos/200/300",
+      "type": "reader",
+      "following": [],
+      "followers": [],
+      "posts": []
     },
     {
       "id": 5,
-      "username": "alex_smith",
-      "name": "Alex Smith",
-      "email": "alex.smith@example.com",
-      "role": "reader",
-      "notifications": [5]
+      "username": "william",
+      "password": "qwerty",
+      "avatar": "https://picsum.photos/200/300",
+      "type": "author",
+      "following": [],
+      "followers": [],
+      "posts": []
     }
   ],
   "posts": [
