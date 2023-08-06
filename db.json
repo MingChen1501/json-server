@@ -22,8 +22,30 @@
       "title": "Bài viết 1",
       "content": "Nội dung bài viết 1...",
       "images": [
-        "https://picsum.photos/300/300",
-        "https://picsum.photos/300/300"
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "published_at": "2023-07-25T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "title": "Bài viết 2",
+      "content": "Nội dung bài viết 2...",
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
+      ],
+      "published_at": "2023-07-25T14:30:00Z"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "title": "Bài viết 3",
+      "content": "Nội dung bài viết 3...",
+      "images": [
+        "https://picsum.photos/600/600",
+        "https://picsum.photos/600/600"
       ],
       "published_at": "2023-07-25T14:30:00Z"
     }
@@ -51,11 +73,15 @@
   "followers": [
     {
       "userId": 1,
-      "followerIds": [2]
+      "followerIds": [2, 3]
+    },
+    {
+      "userId": 2,
+      "followerIds": [1]
     },
     {
       "userId": 1,
-      "followerIds": [2]
+      "followerIds": [2, 3]
     }
   ],
   "notifications": [
@@ -64,6 +90,13 @@
       "userId": 1,
       "message": "bạn có thêm 1 người theo dõi",
       "read": false
+    }
+  ],
+  "liked": [
+    {
+      "id": 1,
+      "userId": 2,
+      "postId": 1
     }
   ]
 }
