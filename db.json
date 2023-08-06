@@ -52,6 +52,10 @@
     {
       "userId": 1,
       "followerIds": [2]
+    },
+    {
+      "userId": 1,
+      "followerIds": [2]
     }
   ],
   "notifications": [
