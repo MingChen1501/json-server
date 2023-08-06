@@ -2,105 +2,30 @@
   "users": [
     {
       "id": 1,
-      "username": "john_doe",
-      "password": "password123",
+      "username": "mingchen",
+      "password": "mingchen",
       "avatar": "https://picsum.photos/200/300",
-      "type": "author",
-      "following": [2],
-      "followers": [2],
-      "posts": [1, 2]
+      "type": "author"
     },
     {
       "id": 2,
-      "username": "jane_smith",
-      "password": "secret456",
+      "username": "mingchen2",
+      "password": "mingchen",
       "avatar": "https://picsum.photos/200/300",
-      "type": "reader",
-      "following": [1],
-      "followers": [1],
-      "posts": []
-    },
-    {
-      "id": 3,
-      "username": "michael",
-      "password": "test123",
-      "avatar": "https://picsum.photos/200/300",
-      "type": "reader",
-      "following": [],
-      "followers": [],
-      "posts": []
-    },
-    {
-      "id": 4,
-      "username": "emily",
-      "password": "abc123",
-      "avatar": "https://picsum.photos/200/300",
-      "type": "reader",
-      "following": [],
-      "followers": [],
-      "posts": []
-    },
-    {
-      "id": 5,
-      "username": "william",
-      "password": "qwerty",
-      "avatar": "https://picsum.photos/200/300",
-      "type": "author",
-      "following": [],
-      "followers": [],
-      "posts": []
+      "type": "reader"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "author": {
-        "id": 101,
-        "avatar": "https://picsum.photos/200/200",
-        "name": "Tác giả A"
-      },
+      "userId": 1,
       "title": "Bài viết 1",
       "content": "Nội dung bài viết 1...",
       "images": [
-        "https://via.placeholder.com/1600x900?text=Image+1",
-        "https://via.placeholder.com/1600x900?text=Image+2"
+        "https://picsum.photos/300/300",
+        "https://picsum.photos/300/300"
       ],
-      "published_at": "2023-07-25T14:30:00Z",
-      "liked_by": [2, 3]
-    },
-    {
-      "id": 2,
-      "author": {
-        "id": 102,
-        "avatar": "https://picsum.photos/200/200",
-        "name": "Tác giả B"
-      },
-      "title": "Bài viết 2",
-      "content": "Nội dung bài viết 2...",
-      "images": [
-        "https://via.placeholder.com/1600x900?text=Image+1",
-        "https://via.placeholder.com/1600x900?text=Image+2",
-        "https://via.placeholder.com/1600x900?text=Image+3"
-      ],
-      "published_at": "2023-07-28T16:45:00Z",
-      "liked_by": [1]
-    },
-    {
-      "id": 3,
-      "author": {
-        "id": 103,
-        "avatar": "https://picsum.photos/200/200",
-        "name": "Tác giả C"
-      },
-      "title": "Bài viết 3",
-      "content": "Vestibulum in ipsum vitae nunc pharetra interdum...",
-      "images": [
-        "https://via.placeholder.com/1600x900?text=Image+1",
-        "https://via.placeholder.com/1600x900?text=Image+2",
-        "https://via.placeholder.com/1600x900?text=Image+3"
-      ],
-      "published_at": "2023-07-29T09:15:00Z",
-      "liked_by": []
+      "published_at": "2023-07-25T14:30:00Z"
     }
   ],
   "comments": [
@@ -108,100 +33,32 @@
       "id": 1,
       "userId": 2,
       "postId": 1,
-      "content": "Great post, John!"
+      "content": "Great post, Chen!"
     },
     {
       "id": 2,
-      "userId": 3,
-      "postId": 2,
-      "content": "I agree! Coding is fun!"
-    },
-    {
-      "id": 3,
-      "userId": 2,
-      "postId": 3,
-      "content": "Looks amazing, Susan!"
-    },
-    {
-      "id": 4,
       "userId": 1,
-      "postId": 5,
-      "content": "I also loved that book!"
+      "postId": 1,
+      "content": "very fun"
     }
   ],
   "followings": [
     {
-      "userId": 1,
-      "followingIds": [2, 4]
-    },
-    {
       "userId": 2,
       "followingIds": [1]
-    },
-    {
-      "userId": 3,
-      "followingIds": [1]
-    },
-    {
-      "userId": 4,
-      "followingIds": [3]
-    },
-    {
-      "userId": 5,
-      "followingIds": [1, 4]
     }
   ],
   "followers": [
     {
       "userId": 1,
-      "followerIds": [5]
-    },
-    {
-      "userId": 2,
-      "followerIds": [3, 4]
-    },
-    {
-      "userId": 3,
-      "followerIds": [5]
-    },
-    {
-      "userId": 4,
-      "followerIds": [1, 2]
-    },
-    {
-      "userId": 5,
-      "followerIds": []
+      "followerIds": [2]
     }
   ],
   "notifications": [
     {
       "id": 1,
       "userId": 1,
-      "message": "You have a new follower",
-      "read": false
-    },
-    {
-      "id": 2,
-      "userId": 1,
-      "message": "Your post was liked",
-      "read": true
-    },
-    {
-      "id": 3,
-      "userId": 2,
-      "message": "You have a new follower",
-      "read": false
-    },
-    {
-      "id": 4,
-      "userId": 4,
-      "message": "You have a new follower",
-      "read": false
-    },
-    {
-      "id": 5,
-      "userId": 5,
-      "message": "You have a new follower",
+      "message": "bạn có thêm 1 người theo dõi",
       "read": false
     }
   ]
