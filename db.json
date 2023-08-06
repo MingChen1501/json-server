@@ -62,10 +62,11 @@
       "title": "Bài viết 1",
       "content": "Nội dung bài viết 1...",
       "images": [
-        "https://picsum.photos/200/200",
-        "https://picsum.photos/200/200"
+        "https://via.placeholder.com/1600x900?text=Image+1",
+        "https://via.placeholder.com/1600x900?text=Image+2"
       ],
-      "published_at": "2023-07-25T14:30:00Z"
+      "published_at": "2023-07-25T14:30:00Z",
+      "liked_by": [2, 3]
     },
     {
       "id": 2,
@@ -77,11 +78,12 @@
       "title": "Bài viết 2",
       "content": "Nội dung bài viết 2...",
       "images": [
-        "https://picsum.photos/200/200",
-        "https://picsum.photos/200/200",
-        "https://picsum.photos/200/200"
+        "https://via.placeholder.com/1600x900?text=Image+1",
+        "https://via.placeholder.com/1600x900?text=Image+2",
+        "https://via.placeholder.com/1600x900?text=Image+3"
       ],
-      "published_at": "2023-07-28T16:45:00Z"
+      "published_at": "2023-07-28T16:45:00Z",
+      "liked_by": [1]
     },
     {
       "id": 3,
@@ -91,28 +93,14 @@
         "name": "Tác giả C"
       },
       "title": "Bài viết 3",
-      "content": "Vestibulum in ipsum vitae nunc pharetra interdum. Sed porttitor purus ...",
+      "content": "Vestibulum in ipsum vitae nunc pharetra interdum...",
       "images": [
-        "https://picsum.photos/200/200",
-        "https://picsum.photos/200/200",
-        "https://picsum.photos/200/200"
+        "https://via.placeholder.com/1600x900?text=Image+1",
+        "https://via.placeholder.com/1600x900?text=Image+2",
+        "https://via.placeholder.com/1600x900?text=Image+3"
       ],
-      "published_at": "2023-07-29T09:15:00Z"
-    },
-    {
-      "id": 4,
-      "author": {
-        "id": 101,
-        "avatar": "https://picsum.photos/200/200",
-        "name": "Tác giả A"
-      },
-      "title": "Bài viết 4",
-      "content": "Nội dung bài viết 4...",
-      "images": [
-        "https://picsum.photos/200/200",
-        "https://picsum.photos/200/200"
-      ],
-      "published_at": "2023-07-30T11:30:00Z"
+      "published_at": "2023-07-29T09:15:00Z",
+      "liked_by": []
     }
   ],
   "comments": [
