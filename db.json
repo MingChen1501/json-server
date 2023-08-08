@@ -52,18 +52,20 @@
   ],
   "comments": [
     {
-      "id": 1,
-      "userId": 2,
-      "postId": 1,
-      "content": "Great post, Chen!"
+        "id": 1,
+        "userId": 2,
+        "postId": 1,
+        "content": "Great post, Chen!",
+        "timestamp": "2023-08-08T10:30:00Z"
     },
     {
-      "id": 2,
-      "userId": 1,
-      "postId": 1,
-      "content": "very fun"
+        "id": 2,
+        "userId": 1,
+        "postId": 1,
+        "content": "very fun",
+        "timestamp": "2023-08-08T11:15:00Z"
     }
-  ],
+],
   "followings": [
     {
       "userId": 2,
