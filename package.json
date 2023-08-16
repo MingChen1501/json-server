@@ -6,6 +6,7 @@
     "start": "json-server --host localhost --watch db.json",
     "reset": "copy /Y db.json.backup db.json",
     "start-with-reset": "npm run reset && npm start",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-thi-1": "json-server --host localhost --id MaLopMinhTCPH19127 --id MaSVMinhTCPH19127 --id MaMonMinhTCPH19127 --watch db.json"
   }
 }
