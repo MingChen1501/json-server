@@ -1,330 +1,1268 @@
 {
-  "LopMinhTCPH19127s": [
+  "LopPH19127MinhTCs": [
     {
       "id": 1,
-      "TenLopMinhTCPH19127": "12A",
-      "KhoaHocMinhTCPH19127": "SU23"
+      "TenLopPH19127MinhTC": "12A",
+      "NamHocPH19127MinhTC": "2020",
+      "KyHocPH19127MinhTC": 1
     },
     {
       "id": 2,
-      "TenLopMinhTCPH19127": "12B",
-      "KhoaHocMinhTCPH19127": "SU23"
-    }
-  ],
-  "SinhVienMinhTCPH19127s": [
-    {
-      "id": 1,
-      "LopMinhTCPH19127Id": 1,
-      "TenSVMinhTCPH19127": "Nguyen Van A"
-    },
-    {
-      "id": 2,
-      "LopMinhTCPH19127Id": 1,
-      "TenSVMinhTCPH19127": "Tran Thi B"
+      "TenLopPH19127MinhTC": "12A",
+      "NamHocPH19127MinhTC": "2020",
+      "KyHocPH19127MinhTC": 2
     },
     {
       "id": 3,
-      "LopMinhTCPH19127Id": 1,
-      "TenSVMinhTCPH19127": "Le Van C"
+      "TenLopPH19127MinhTC": "12A",
+      "NamHocPH19127MinhTC": "2021",
+      "KyHocPH19127MinhTC": 1
     },
     {
       "id": 4,
-      "LopMinhTCPH19127Id": 1,
-      "TenSVMinhTCPH19127": "Pham Thi D"
+      "TenLopPH19127MinhTC": "12A",
+      "NamHocPH19127MinhTC": "2021",
+      "KyHocPH19127MinhTC": 2
     },
     {
       "id": 5,
-      "LopMinhTCPH19127Id": 1,
-      "TenSVMinhTCPH19127": "Hoang Van E"
+      "TenLopPH19127MinhTC": "12B",
+      "NamHocPH19127MinhTC": "2020",
+      "KyHocPH19127MinhTC": 1
     },
     {
       "id": 6,
-      "LopMinhTCPH19127Id": 1,
-      "TenSVMinhTCPH19127": "Nguyen Thi F"
+      "TenLopPH19127MinhTC": "12B",
+      "NamHocPH19127MinhTC": "2020",
+      "KyHocPH19127MinhTC": 2
     },
     {
       "id": 7,
-      "LopMinhTCPH19127Id": 1,
-      "TenSVMinhTCPH19127": "Tran Van G"
+      "TenLopPH19127MinhTC": "12B",
+      "NamHocPH19127MinhTC": "2021",
+      "KyHocPH19127MinhTC": 1
     },
     {
       "id": 8,
-      "LopMinhTCPH19127Id": 1,
-      "TenSVMinhTCPH19127": "Pham Van H"
-    },
-    {
-      "id": 9,
-      "LopMinhTCPH19127Id": 1,
-      "TenSVMinhTCPH19127": "Le Van I"
-    },
-    {
-      "id": 10,
-      "LopMinhTCPH19127Id": 1,
-      "TenSVMinhTCPH19127": "Nguyen Van J"
-    },
-    {
-      "id": 11,
-      "LopMinhTCPH19127Id": 2,
-      "TenSVMinhTCPH19127": "Tran Thi K"
-    },
-    {
-      "id": 12,
-      "LopMinhTCPH19127Id": 2,
-      "TenSVMinhTCPH19127": "Pham Van L"
-    },
-    {
-      "id": 13,
-      "LopMinhTCPH19127Id": 2,
-      "TenSVMinhTCPH19127": "Le Thi M"
-    },
-    {
-      "id": 14,
-      "LopMinhTCPH19127Id": 2,
-      "TenSVMinhTCPH19127": "Nguyen Van N"
-    },
-    {
-      "id": 15,
-      "LopMinhTCPH19127Id": 2,
-      "TenSVMinhTCPH19127": "Tran Van O"
-    },
-    {
-      "id": 16,
-      "LopMinhTCPH19127Id": 2,
-      "TenSVMinhTCPH19127": "Pham Van P"
-    },
-    {
-      "id": 17,
-      "LopMinhTCPH19127Id": 2,
-      "TenSVMinhTCPH19127": "Le Van Q"
-    },
-    {
-      "id": 18,
-      "LopMinhTCPH19127Id": 2,
-      "TenSVMinhTCPH19127": "Nguyen Thi R"
-    },
-    {
-      "id": 19,
-      "LopMinhTCPH19127Id": 2,
-      "TenSVMinhTCPH19127": "Tran Van S"
-    },
-    {
-      "id": 20,
-      "LopMinhTCPH19127Id": 2,
-      "TenSVMinhTCPH19127": "Pham Thi T"
+      "TenLopPH19127MinhTC": "12B",
+      "NamHocPH19127MinhTC": "2021",
+      "KyHocPH19127MinhTC": 2
     }
   ],
-  "BangDiemMinhTCPH19127s": [
-    {
-      "SinhVienMinhTCPH19127Id": 1,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 10
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 2,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 4.5
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 3,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 5.4
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 4,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 6
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 5,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 8
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 6,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 8.4
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 7,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 5
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 8,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 9
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 9,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 5
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 10,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 7.5
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 11,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 6.4
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 12,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 5.3
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 13,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 9.9
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 14,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 6.4
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 15,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 6.4
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 16,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 8.2
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 17,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 5.6
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 18,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 10
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 19,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 10
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 20,
-      "MonHocMinhTCPH19127Id": 1,
-      "DiemMinhTCPH19127": 3.4
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 1,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 3
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 2,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 5
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 3,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 6.1
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 4,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 6.4
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 5,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 8.4
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 6,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 6
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 7,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 10
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 8,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 4
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 9,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 9
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 10,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 6
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 11,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 5
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 12,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 7
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 13,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 6
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 14,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 6
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 15,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 8
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 16,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 10
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 17,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 8
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 18,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 9
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 19,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 6
-    },
-    {
-      "SinhVienMinhTCPH19127Id": 20,
-      "MonHocMinhTCPH19127Id": 2,
-      "DiemMinhTCPH19127": 10
-    }
-  ],
-  "MonHocMinhTCPH19127s": [
+  "SinhVienPH19127MinhTCs": [
     {
       "id": 1,
-      "TenMonMinhTCPH19127": "Toan",
-      "SoTinChiMinhTCPH19127": 3
+      "LopPH19127MinhTCId": 1,
+      "TenSVPH19127MinhTC": "Nguyen Van A"
     },
     {
       "id": 2,
-      "TenMonMinhTCPH19127": "Van",
-      "SoTinChiMinhTCPH19127": 3
+      "LopPH19127MinhTCId": 1,
+      "TenSVPH19127MinhTC": "Tran Thi B"
+    },
+    {
+      "id": 3,
+      "LopPH19127MinhTCId": 1,
+      "TenSVPH19127MinhTC": "Le Van C"
+    },
+    {
+      "id": 4,
+      "LopPH19127MinhTCId": 1,
+      "TenSVPH19127MinhTC": "Pham Thi D"
+    },
+    {
+      "id": 5,
+      "LopPH19127MinhTCId": 1,
+      "TenSVPH19127MinhTC": "Hoang Van E"
+    },
+    {
+      "id": 6,
+      "LopPH19127MinhTCId": 1,
+      "TenSVPH19127MinhTC": "Nguyen Thi F"
+    },
+    {
+      "id": 7,
+      "LopPH19127MinhTCId": 1,
+      "TenSVPH19127MinhTC": "Tran Van G"
+    },
+    {
+      "id": 8,
+      "LopPH19127MinhTCId": 1,
+      "TenSVPH19127MinhTC": "Pham Van H"
+    },
+    {
+      "id": 9,
+      "LopPH19127MinhTCId": 1,
+      "TenSVPH19127MinhTC": "Le Van I"
+    },
+    {
+      "id": 10,
+      "LopPH19127MinhTCId": 1,
+      "TenSVPH19127MinhTC": "Nguyen Van J"
+    },
+    {
+      "id": 11,
+      "LopPH19127MinhTCId": 2,
+      "TenSVPH19127MinhTC": "Nguyen Van A"
+    },
+    {
+      "id": 12,
+      "LopPH19127MinhTCId": 2,
+      "TenSVPH19127MinhTC": "Tran Thi B"
+    },
+    {
+      "id": 13,
+      "LopPH19127MinhTCId": 2,
+      "TenSVPH19127MinhTC": "Le Van C"
+    },
+    {
+      "id": 14,
+      "LopPH19127MinhTCId": 2,
+      "TenSVPH19127MinhTC": "Pham Thi D"
+    },
+    {
+      "id": 15,
+      "LopPH19127MinhTCId": 2,
+      "TenSVPH19127MinhTC": "Hoang Van E"
+    },
+    {
+      "id": 16,
+      "LopPH19127MinhTCId": 2,
+      "TenSVPH19127MinhTC": "Nguyen Thi F"
+    },
+    {
+      "id": 17,
+      "LopPH19127MinhTCId": 2,
+      "TenSVPH19127MinhTC": "Tran Van G"
+    },
+    {
+      "id": 18,
+      "LopPH19127MinhTCId": 2,
+      "TenSVPH19127MinhTC": "Pham Van H"
+    },
+    {
+      "id": 19,
+      "LopPH19127MinhTCId": 2,
+      "TenSVPH19127MinhTC": "Le Van I"
+    },
+    {
+      "id": 20,
+      "LopPH19127MinhTCId": 2,
+      "TenSVPH19127MinhTC": "Nguyen Van J"
+    },
+    {
+      "id": 21,
+      "LopPH19127MinhTCId": 3,
+      "TenSVPH19127MinhTC": "Nguyen Van A"
+    },
+    {
+      "id": 22,
+      "LopPH19127MinhTCId": 3,
+      "TenSVPH19127MinhTC": "Tran Thi B"
+    },
+    {
+      "id": 23,
+      "LopPH19127MinhTCId": 3,
+      "TenSVPH19127MinhTC": "Le Van C"
+    },
+    {
+      "id": 24,
+      "LopPH19127MinhTCId": 3,
+      "TenSVPH19127MinhTC": "Pham Thi D"
+    },
+    {
+      "id": 25,
+      "LopPH19127MinhTCId": 3,
+      "TenSVPH19127MinhTC": "Hoang Van E"
+    },
+    {
+      "id": 26,
+      "LopPH19127MinhTCId": 3,
+      "TenSVPH19127MinhTC": "Nguyen Thi F"
+    },
+    {
+      "id": 27,
+      "LopPH19127MinhTCId": 3,
+      "TenSVPH19127MinhTC": "Tran Van G"
+    },
+    {
+      "id": 28,
+      "LopPH19127MinhTCId": 3,
+      "TenSVPH19127MinhTC": "Pham Van H"
+    },
+    {
+      "id": 29,
+      "LopPH19127MinhTCId": 3,
+      "TenSVPH19127MinhTC": "Le Van I"
+    },
+    {
+      "id": 30,
+      "LopPH19127MinhTCId": 3,
+      "TenSVPH19127MinhTC": "Nguyen Van J"
+    },
+    {
+      "id": 31,
+      "LopPH19127MinhTCId": 4,
+      "TenSVPH19127MinhTC": "Nguyen Van A"
+    },
+    {
+      "id": 32,
+      "LopPH19127MinhTCId": 4,
+      "TenSVPH19127MinhTC": "Tran Thi B"
+    },
+    {
+      "id": 33,
+      "LopPH19127MinhTCId": 4,
+      "TenSVPH19127MinhTC": "Le Van C"
+    },
+    {
+      "id": 34,
+      "LopPH19127MinhTCId": 4,
+      "TenSVPH19127MinhTC": "Pham Thi D"
+    },
+    {
+      "id": 35,
+      "LopPH19127MinhTCId": 4,
+      "TenSVPH19127MinhTC": "Hoang Van E"
+    },
+    {
+      "id": 36,
+      "LopPH19127MinhTCId": 4,
+      "TenSVPH19127MinhTC": "Nguyen Thi F"
+    },
+    {
+      "id": 37,
+      "LopPH19127MinhTCId": 4,
+      "TenSVPH19127MinhTC": "Tran Van G"
+    },
+    {
+      "id": 38,
+      "LopPH19127MinhTCId": 4,
+      "TenSVPH19127MinhTC": "Pham Van H"
+    },
+    {
+      "id": 39,
+      "LopPH19127MinhTCId": 4,
+      "TenSVPH19127MinhTC": "Le Van I"
+    },
+    {
+      "id": 40,
+      "LopPH19127MinhTCId": 4,
+      "TenSVPH19127MinhTC": "Nguyen Van J"
+    },
+    {
+      "id": 41,
+      "LopPH19127MinhTCId": 5,
+      "TenSVPH19127MinhTC": "Tran Thi K"
+    },
+    {
+      "id": 42,
+      "LopPH19127MinhTCId": 5,
+      "TenSVPH19127MinhTC": "Pham Van L"
+    },
+    {
+      "id": 43,
+      "LopPH19127MinhTCId": 5,
+      "TenSVPH19127MinhTC": "Le Thi M"
+    },
+    {
+      "id": 44,
+      "LopPH19127MinhTCId": 5,
+      "TenSVPH19127MinhTC": "Nguyen Van N"
+    },
+    {
+      "id": 45,
+      "LopPH19127MinhTCId": 5,
+      "TenSVPH19127MinhTC": "Tran Van O"
+    },
+    {
+      "id": 46,
+      "LopPH19127MinhTCId": 5,
+      "TenSVPH19127MinhTC": "Pham Van P"
+    },
+    {
+      "id": 47,
+      "LopPH19127MinhTCId": 5,
+      "TenSVPH19127MinhTC": "Le Van Q"
+    },
+    {
+      "id": 48,
+      "LopPH19127MinhTCId": 5,
+      "TenSVPH19127MinhTC": "Nguyen Thi R"
+    },
+    {
+      "id": 49,
+      "LopPH19127MinhTCId": 5,
+      "TenSVPH19127MinhTC": "Tran Van S"
+    },
+    {
+      "id": 50,
+      "LopPH19127MinhTCId": 5,
+      "TenSVPH19127MinhTC": "Pham Thi T"
+    },
+    {
+      "id": 51,
+      "LopPH19127MinhTCId": 6,
+      "TenSVPH19127MinhTC": "Tran Thi K"
+    },
+    {
+      "id": 52,
+      "LopPH19127MinhTCId": 6,
+      "TenSVPH19127MinhTC": "Pham Van L"
+    },
+    {
+      "id": 53,
+      "LopPH19127MinhTCId": 6,
+      "TenSVPH19127MinhTC": "Le Thi M"
+    },
+    {
+      "id": 54,
+      "LopPH19127MinhTCId": 6,
+      "TenSVPH19127MinhTC": "Nguyen Van N"
+    },
+    {
+      "id": 55,
+      "LopPH19127MinhTCId": 6,
+      "TenSVPH19127MinhTC": "Tran Van O"
+    },
+    {
+      "id": 56,
+      "LopPH19127MinhTCId": 6,
+      "TenSVPH19127MinhTC": "Pham Van P"
+    },
+    {
+      "id": 57,
+      "LopPH19127MinhTCId": 6,
+      "TenSVPH19127MinhTC": "Le Van Q"
+    },
+    {
+      "id": 58,
+      "LopPH19127MinhTCId": 6,
+      "TenSVPH19127MinhTC": "Nguyen Thi R"
+    },
+    {
+      "id": 59,
+      "LopPH19127MinhTCId": 6,
+      "TenSVPH19127MinhTC": "Tran Van S"
+    },
+    {
+      "id": 60,
+      "LopPH19127MinhTCId": 6,
+      "TenSVPH19127MinhTC": "Pham Thi T"
+    },
+    {
+      "id": 61,
+      "LopPH19127MinhTCId": 7,
+      "TenSVPH19127MinhTC": "Tran Thi K"
+    },
+    {
+      "id": 62,
+      "LopPH19127MinhTCId": 7,
+      "TenSVPH19127MinhTC": "Pham Van L"
+    },
+    {
+      "id": 63,
+      "LopPH19127MinhTCId": 7,
+      "TenSVPH19127MinhTC": "Le Thi M"
+    },
+    {
+      "id": 64,
+      "LopPH19127MinhTCId": 7,
+      "TenSVPH19127MinhTC": "Nguyen Van N"
+    },
+    {
+      "id": 65,
+      "LopPH19127MinhTCId": 7,
+      "TenSVPH19127MinhTC": "Tran Van O"
+    },
+    {
+      "id": 66,
+      "LopPH19127MinhTCId": 7,
+      "TenSVPH19127MinhTC": "Pham Van P"
+    },
+    {
+      "id": 67,
+      "LopPH19127MinhTCId": 7,
+      "TenSVPH19127MinhTC": "Le Van Q"
+    },
+    {
+      "id": 68,
+      "LopPH19127MinhTCId": 7,
+      "TenSVPH19127MinhTC": "Nguyen Thi R"
+    },
+    {
+      "id": 69,
+      "LopPH19127MinhTCId": 7,
+      "TenSVPH19127MinhTC": "Tran Van S"
+    },
+    {
+      "id": 70,
+      "LopPH19127MinhTCId": 7,
+      "TenSVPH19127MinhTC": "Pham Thi T"
+    },
+    {
+      "id": 71,
+      "LopPH19127MinhTCId": 8,
+      "TenSVPH19127MinhTC": "Tran Thi K"
+    },
+    {
+      "id": 72,
+      "LopPH19127MinhTCId": 8,
+      "TenSVPH19127MinhTC": "Pham Van L"
+    },
+    {
+      "id": 73,
+      "LopPH19127MinhTCId": 8,
+      "TenSVPH19127MinhTC": "Le Thi M"
+    },
+    {
+      "id": 74,
+      "LopPH19127MinhTCId": 8,
+      "TenSVPH19127MinhTC": "Nguyen Van N"
+    },
+    {
+      "id": 75,
+      "LopPH19127MinhTCId": 8,
+      "TenSVPH19127MinhTC": "Tran Van O"
+    },
+    {
+      "id": 76,
+      "LopPH19127MinhTCId": 8,
+      "TenSVPH19127MinhTC": "Pham Van P"
+    },
+    {
+      "id": 77,
+      "LopPH19127MinhTCId": 8,
+      "TenSVPH19127MinhTC": "Le Van Q"
+    },
+    {
+      "id": 78,
+      "LopPH19127MinhTCId": 8,
+      "TenSVPH19127MinhTC": "Nguyen Thi R"
+    },
+    {
+      "id": 79,
+      "LopPH19127MinhTCId": 8,
+      "TenSVPH19127MinhTC": "Tran Van S"
+    },
+    {
+      "id": 80,
+      "LopPH19127MinhTCId": 8,
+      "TenSVPH19127MinhTC": "Pham Thi T"
+    }
+  ],
+  "BangDiemPH19127MinhTCs": [
+    {
+      "SinhVienPH19127MinhTCId": 1,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 2,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 4.5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 3,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 4,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 5,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 6,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 7,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 8,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 9,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 10,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 7.5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 11,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 6.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 12,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5.3
+    },
+    {
+      "SinhVienPH19127MinhTCId": 13,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 9.9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 14,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 6.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 15,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 6.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 16,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8.2
+    },
+    {
+      "SinhVienPH19127MinhTCId": 17,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5.6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 18,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 19,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 20,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 3.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 21,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 22,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 4.5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 23,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 24,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 25,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 26,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 27,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 28,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 29,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 30,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 7.5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 31,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 6.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 32,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5.3
+    },
+    {
+      "SinhVienPH19127MinhTCId": 33,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 9.9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 34,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 6.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 35,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 6.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 36,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8.2
+    },
+    {
+      "SinhVienPH19127MinhTCId": 37,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5.6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 38,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 39,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 40,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 3.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 41,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 42,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 4.5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 43,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 44,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 45,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 46,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 47,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 48,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 49,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 50,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 7.5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 51,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 52,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 4.5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 53,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 54,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 55,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 56,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 57,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 58,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 59,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 60,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 7.5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 61,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 62,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 4.5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 63,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 64,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 65,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 66,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 67,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 68,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 69,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 70,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 7.5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 71,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 72,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 4.5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 73,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 74,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 75,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 76,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 8.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 77,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 78,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 79,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 80,
+      "MonHocPH19127MinhTCId": 1,
+      "DiemPH19127MinhTC": 7.5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 1,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 3
+    },
+    {
+      "SinhVienPH19127MinhTCId": 2,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 3,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6.1
+    },
+    {
+      "SinhVienPH19127MinhTCId": 4,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 5,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 8.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 6,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 7,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 8,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 9,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 10,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 11,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 12,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 7
+    },
+    {
+      "SinhVienPH19127MinhTCId": 13,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 14,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 15,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 16,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 17,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 18,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 19,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 20,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 21,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 3
+    },
+    {
+      "SinhVienPH19127MinhTCId": 22,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 23,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6.1
+    },
+    {
+      "SinhVienPH19127MinhTCId": 24,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 25,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 8.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 26,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 27,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 28,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 29,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 30,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 31,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 32,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 7
+    },
+    {
+      "SinhVienPH19127MinhTCId": 33,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 34,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 35,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 36,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 37,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 38,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 39,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 40,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 41,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 3
+    },
+    {
+      "SinhVienPH19127MinhTCId": 42,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 43,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6.1
+    },
+    {
+      "SinhVienPH19127MinhTCId": 44,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 45,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 8.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 46,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 47,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 48,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 49,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 50,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 51,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 52,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 7
+    },
+    {
+      "SinhVienPH19127MinhTCId": 53,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 54,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 55,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 56,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 57,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 58,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 59,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 60,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 61,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 3
+    },
+    {
+      "SinhVienPH19127MinhTCId": 62,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 63,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6.1
+    },
+    {
+      "SinhVienPH19127MinhTCId": 64,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 65,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 8.4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 66,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 67,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 68,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 4
+    },
+    {
+      "SinhVienPH19127MinhTCId": 69,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 70,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 71,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 5
+    },
+    {
+      "SinhVienPH19127MinhTCId": 72,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 7
+    },
+    {
+      "SinhVienPH19127MinhTCId": 73,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 74,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 75,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 76,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 10
+    },
+    {
+      "SinhVienPH19127MinhTCId": 77,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 8
+    },
+    {
+      "SinhVienPH19127MinhTCId": 78,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 9
+    },
+    {
+      "SinhVienPH19127MinhTCId": 79,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 6
+    },
+    {
+      "SinhVienPH19127MinhTCId": 80,
+      "MonHocPH19127MinhTCId": 2,
+      "DiemPH19127MinhTC": 10
+    }
+  ],
+  "MonHocPH19127MinhTCs": [
+    {
+      "id": 1,
+      "TenMonPH19127MinhTC": "Toan",
+      "SoTinChiPH19127MinhTC": 3
+    },
+    {
+      "id": 2,
+      "TenMonPH19127MinhTC": "Van",
+      "SoTinChiPH19127MinhTC": 3
     }
   ]
 }
